@@ -6,8 +6,8 @@ import textwrap
 colab_url = "http://127.0.0.1:5000"
 
 # Streamlit UI setup
-st.title("Chatbot for EDI852 Pipelines")
-st.write("Ask any question related to EDI852 pipelines!")
+st.title("Chatbot for Ops Team")
+st.write("Ask any question for Ops support!")
 
 user_input = st.text_input("Your Question:")
 
