@@ -3,7 +3,7 @@ import requests
 import textwrap
 
 # Your Colab URL (replace this with the actual ngrok URL)
-colab_url = "https://c06e-35-221-163-110.ngrok-free.app/chat"
+colab_url = "https://d389-34-148-109-131.ngrok-free.app/chat"
 
 # Streamlit UI setup
 st.title("Chatbot for Ops Team")
